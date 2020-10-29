@@ -47,6 +47,7 @@ buck-out
 .project
 .settings
 .classpath
+build
 
 # Watchman
 .watchmanconfig
@@ -54,9 +55,7 @@ buck-out
 # Android
 .idea
 .gradle
-local.properties
 *.iml
-/android/
 
 # Node
 node_modules
